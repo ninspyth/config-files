@@ -1,0 +1,13 @@
+abrt/
+aseprite/
+dconf/
+go/
+godot/
+gtk-3.0/
+htop/
+i3/ ibus/ imsettings/ inkscape/
+pulse/
+Thunar/
+user-dirs.dirs user-dirs.locale
+volumeicon/
+xfce4/
